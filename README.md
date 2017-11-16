@@ -1,5 +1,12 @@
 # Assignment #3.5 (***EXTRA CREDIT***): List - Doubly Linked List Implementation
 
+### Student: Katrina Rosemond
+
+## Grading:
+    - `Average()` is incorrect **-2pnts**
+    - `Median()` is incorrect even lengths **-2pnts*
+
+### Grade: 96% * 20 = 19.2 Extra Credit
 
 *Due **Friday, October 13th, 2017 @ 11:59PM EST***
 
